@@ -81,6 +81,7 @@
     bottom: 6px;
     transition: width 0.3s;
 }
+/* @media : 화면의 크기가 지정한 크기가 되면 아래 속성으로 변경 */
 @media (max-width: 800px){
     .header__nav {
         display: none;
